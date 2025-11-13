@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.crud.crud"},{"l":"com.crud.crud.entities"},{"l":"com.crud.crud.repositories"},{"l":"com.crud.crud.services"},{"l":"com.crud.crud.views"}];updateSearchResults();

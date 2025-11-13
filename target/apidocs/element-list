@@ -1,0 +1,5 @@
+com.crud.crud
+com.crud.crud.entities
+com.crud.crud.repositories
+com.crud.crud.services
+com.crud.crud.views

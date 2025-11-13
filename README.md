@@ -13,7 +13,7 @@ This Java-based CRUD (Create, Read, Update, Delete) application provides efficie
 
 ## Prerequisites
 
-- Java 25 or higher
+- Java 17 or higher
 - H2 Database (included in the lib directory)
 
 ## How to Compile
