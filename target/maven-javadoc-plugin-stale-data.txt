@@ -1,0 +1,49 @@
+@options
+@packages
+-classpath
+'C:/Users/Admin/.m2/repository/com/h2database/h2/2.3.232/h2-2.3.232.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'C:/Users/Admin/Documents/NetBeansProjects/CRUD/src/main/java;C:/Users/Admin/Documents/NetBeansProjects/CRUD/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Admin/Documents/NetBeansProjects/CRUD/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CRUD 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CRUD 1.0-SNAPSHOT API'
+com.crud.crud
+com.crud.crud.entities
+com.crud.crud.repositories
+com.crud.crud.services
+com.crud.crud.views
+C:\Users\Admin\.m2\repository\com\h2database\h2\2.3.232\h2-2.3.232.jar = 1761635150597
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\src\main\java = 1761632574430
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\generated-sources\annotations = 1761638441894
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\allclasses-index.html = 1761638654013
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\allpackages-index.html = 1761638654123
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\element-list = 1761638651712
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\help-doc.html = 1761638654653
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\index-all.html = 1761638654500
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\index.html = 1761638653741
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\member-search-index.js = 1761638654239
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\module-search-index.js = 1761638654151
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\overview-summary.html = 1761638654572
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\overview-tree.html = 1761638653662
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\package-search-index.js = 1761638654164
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\search.html = 1761638654544
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\serialized-form.html = 1761638652850
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\tag-search-index.js = 1761638654275
+C:\Users\Admin\Documents\NetBeansProjects\CRUD\target\apidocs\type-search-index.js = 1761638654208
